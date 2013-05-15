@@ -6,6 +6,8 @@ Javascript "helper toolbar" for QA members using LibreOffice Bugzilla
 Home page : (none yet)
 
 Zeus is released as a whole under the following terms:
+
+```
 #
 #     Copyright (C) 2013 Joren De Cuyper <joren.libreoffice@telenet.be>
 #
@@ -22,5 +24,6 @@ Zeus is released as a whole under the following terms:
 #     You should have received a copy of the GNU General Public License
 #     along with this program.  If not, see <http:www.gnu.org/licenses/>.
 #
+```
 
 Libraries used: (none yet)
